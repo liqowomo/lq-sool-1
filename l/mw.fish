@@ -13,4 +13,4 @@ for i in (seq 1 $wax)
     echo "New Wallet $i"
     cast w n 
     echo "---------------------------------------"
-end &> $w.w.w
+end &> $wax.txt 
