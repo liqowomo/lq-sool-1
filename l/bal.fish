@@ -23,6 +23,15 @@ function bal
     # Actual Code starts here 
 
     clear
+    # Displaying todays rates 
+    # Today Eth Rate
+    set today_eth_rate (curl -s rate.sx/1ETH)
+    set today_bnb_rate (curl -s rate.sx/1BNB)
+    
+    # Aesthetic Display
+    echo "---"
+    echo "Todays ETH Rate" $today_eth_rate
+    echo "Todays BNB Rate" $today_bnb_rate
     echo ""
     echo (set_color ff0000)"############################ Balances ##################################"
     echo ""
