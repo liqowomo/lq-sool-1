@@ -15,10 +15,10 @@ function bal
     set A4 0x6927e1Ca6d2939ebDec2acbc052Bd5848b888a03
 
     # Set RPC here 
-    set GOE https://eth-goerli.g.alchemy.com/v2/xcZiS5_gu-2h6tj15IpaSSIFdyMmOZYF 
-    set MUM https://polygon-mumbai.g.alchemy.com/v2/uZ-QasTpZ66zhQK8sOXA_e3zDdsHFw4O
-    set SEP https://sepolia.infura.io/v3/55b5470318884cb5a5827d799940363d
-    set BSC https://bsc-testnet.nodereal.io/v1/b8024c372ca640b9ac3d68c1d3100286
+    set GOE https://eth-goerli.g.alchemy.com/v2/wfowE284fYsqh-laeF5qmjOTQ3YTwuX_  
+    set MUM https://polygon-mumbai.g.alchemy.com/v2/DlxcFxU5u-OioYGMvKhwWsAzAknhvQYd
+    set SEP https://sepolia.infura.io/v3/4d9f7fa54ce44d1aa3319dca50aa3dd7
+    set BSC https://sparkling-boldest-brook.bsc-testnet.discover.quiknode.pro/9c0a1ccf523e238a5e6d574a36ea192f5fcfb747
 
     # Actual Code starts here 
 
