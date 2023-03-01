@@ -6,3 +6,11 @@
 https://user-images.githubusercontent.com/123171512/222245541-5e53d1c4-b14e-4c09-bf30-1fba85f4ec2c.mp4 
 
 ---- 
+
+----
+
+# Lickz 
+
+1. Testing that sooolidity schtuff 
+2. Use Multi proggy foundry hardhat , deploy fuckfuck 
+
